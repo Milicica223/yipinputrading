@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YI PIN PU Trading</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0 auto;
+      max-width: 900px;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #005fa3;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #003d6b;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li::before {
+      content: "✔️ ";
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>NINGXIA YI PIN PU TRADING CO., LTD.</h1>
+  <p><strong>Vaš pouzdan partner u međunarodnoj trgovini medicinskom opremom i materijalima</strong></p>
+
+  <p>
+    NINGXIA YI PIN PU TRADING CO., LTD. je uvozno-izvozna kompanija osnovana 2016. godine, sa sedištem u gradu Yinchuan, glavnom gradu autonomnog regiona Ningxia, NR Kina. Naša osnovna delatnost je veleprodaja medicinskog materijala i opreme, uključujući proizvode za farmaceutsku i hemijsku industriju.
+  </p>
+
+  <p>
+    Zahvaljujući strateškoj saradnji sa vodećim kineskim proizvođačima, tokom pandemije COVID-19 postali smo jedan od najvećih izvoznika medicinske opreme u regionu. Danas uspešno snabdevamo klijente širom Evrope i Azije — kako državne zdravstvene sisteme, tako i privatne bolnice, apoteke i druge zdravstvene ustanove svih nivoa.
+  </p>
+
+  <h2>Naše prednosti:</h2>
+  <ul>
+    <li>Direktna saradnja sa fabrikama (bez posrednika)</li>
+    <li>Najpovoljnije cene uz garantovan kvalitet</li>
+    <li>Kontrola proizvodnje, isporuke i provera proizvođača</li>
+    <li>Iskustvo u registraciji proizvoda i pripremi tenderske dokumentacije</li>
+    <li>Kompletna pravna i tehnička podrška</li>
+  </ul>
+
+  <p>
+    Svi proizvodi koje nudimo poseduju relevantne međunarodne sertifikate (CE, ISO, FDA, DOC, itd.), u skladu sa zakonskim regulativama zemlje uvoznice. Naši klijenti dobijaju i punu distributersku autorizaciju od strane proizvođača.
+  </p>
+
+  <p>
+    Sarađujemo isključivo sa fabrikama koje garantuju visok kvalitet. Ne bavimo se prometom robe nižeg kvaliteta. Kvalitet i cena se uvek prilagođavaju potrebama kupaca, uz očuvanje najviših standarda.
+  </p>
+
+  <h2>Strateški partneri:</h2>
+  <p>Sinopharm, Alibaba Group, Winner i drugi renomirani proizvođači.</p>
+
+  <h2>U ponudi:</h2>
+  <p>Lekovi registrovani u EU i SAD.</p>
+
+  <p><strong>NINGXIA YI PIN PU TRADING CO., LTD. — među vodećim izvoznicima medicinske opreme iz zapadne Kine.</strong></p>
+
+  <footer>
+    📧 office@ypp-trading.com | 🌐 www.ypp-trading.com | 📍 Yinchuan, NR Kina
+  </footer>
+</body>
+</html>
